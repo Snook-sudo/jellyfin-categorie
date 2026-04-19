@@ -6,7 +6,7 @@ Add new categories on the home page
 
 Install Instructions:
 
-    Install the JS Injector plugin - https://github.com/n00bcodr/Jellyfin-JavaScript-Injector
+    Install the JS Injector plugin - [https://github.com/n00bcodr/Jellyfin-JavaScript-Injector ](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector)
 
     Within Plugins > JS Injector, add a script, name it "Apple style categories home" or similar for reference, then paste the raw code of the jellyfin-categorie.js file in this project, then save.
 
